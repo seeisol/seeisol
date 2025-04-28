@@ -1,11 +1,11 @@
 ## Hi there, I'm Prince 👋
 
 ### 💻 About Me  
-- 🔭 I’m currently working on **[your current project/role]**  
-- 🌱 Learning **Python**
-- 👯 Looking to collaborate on **open-source/community projects**  
-- 💬 Ask me about **Data Management**  
-- ⚡ Fun fact: **Learning programming languages is fun, but it won't help if I cannot communicate with humans hence the reason I am learing Afrikaans and French (hopefully Arabic, Portuguese and Russian to follow soon)**
+- 🔭 I’m currently working on building UI that will allow me to connect to PostgreSQL DB, analyze data and visually display data on the map.  
+- 🌱 Learning Python & JavaScript
+- 👯 Looking to collaborate on open-source/community projects  
+- 💬 Ask me about Data Management  
+- ⚡ Fun fact: Learning programming languages is fun, but it won't help if I cannot communicate with humans hence the reason I am learing Afrikaans and French (hopefully Arabic, Portuguese and Russian to follow soon)
   
 ---
 
